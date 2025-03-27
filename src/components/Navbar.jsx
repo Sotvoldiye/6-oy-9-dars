@@ -23,7 +23,7 @@ function Navbar() {
             >
               <Cart cart={cart} dispatch={dispatch} />
               {cart.length >= 1 && (
-                <button
+                <button className="bg-gray-200"
                   onClick={() => {
                     dispatch({ type: "DELETE_ALL" });
                   }}
