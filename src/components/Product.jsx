@@ -11,9 +11,9 @@ function Product({ p }) {
   return (
     <>
       {/* <h1>{p.title}</h1> */}
-      <div className="phones max-w-[1260px]">
+      <div className="phones ">
         <div className=" mt-2 ml-2 mr-2">
-          <ul className="list bg-base-200 rounded-box shadow-md w-full">
+          <ul className="list bg-base-200 rounded-box shadow-md ">
             <div className="">
               <li className="p-4 pb-2 text-xs opacity-60 tracking-wide">
                 {title}

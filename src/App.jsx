@@ -11,10 +11,10 @@ function App() {
   } = useFetch("https://json-api.uz/api/project/products-e/products");
 
   return (
-    
-    <div>
-      <div className="container">
-        <Navbar />
+    <div className="container flex flex-col max-w-[1260px] w-full">
+      <Navbar />
+
+      <div className="ml-auto mr-auto">
         {phone && <Products phone={phone} isPending={isPending} />}
       </div>
     </div>

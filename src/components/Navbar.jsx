@@ -9,8 +9,8 @@ function Navbar() {
 
   // console.log(cart)
   return (
-    <div>
-      <div className="navbar bg-base-100 shadow-sm">
+
+      <div className="navbar bg-base-100 shadow-sm w-[100%]">
         <div className="flex-1">
           <a className="btn btn-ghost text-xl">daisyUI</a>
         </div>
@@ -35,7 +35,7 @@ function Navbar() {
           </div>
         </div>
       </div>
-    </div>
+
   );
 }
 
