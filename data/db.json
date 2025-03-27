@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 14 Pro Max",
+      "price": 1299,
+      "stock": 25,
+      "image": "https://i5.walmartimages.com/seo/Used-Apple-iPhone-14-Pro-Max-1TB-Deep-Purple-Unlocked-MQ953LL-A-Used-Good-Condition_cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S23 Ultra",
+      "price": 1199,
+      "stock": 30,
+      "image": "https://i5.walmartimages.com/seo/Samsung-Galaxy-S23-Ultra-5G-SM-S918B-DS-256GB-12GB-RAM-DUAL-SIM-Global-Model-Factory-Unlocked-GSM-Green_7c32dbc9-9a12-401d-8499-356a5ec59741.ee819d0e96b44da17e75e373b324bd7e.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Sony WH-1000XM5",
+      "price": 399,
+      "stock": 50,
+      "image": "https://m.media-amazon.com/images/I/51aXvjzcukL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Pro 16-inch M2",
+      "price": 2499,
+      "stock": 15,
+      "image": "https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FApple-MacBook-Pro-16-inch-price-in-nepal-2.png1724241998369&w=3840&q=75"
+    },
+    {
+      "id": 5,
+      "title": "Dell XPS 15",
+      "price": 1799,
+      "stock": 20,
+      "image": "https://i5.walmartimages.com/asr/4346747d-44a8-469a-97aa-e5c52ca143f7.2598ca152f660711428fd11eefc5bca0.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Logitech MX Master 3S",
+      "price": 99,
+      "stock": 100,
+      "image": "https://cdn0.it4profit.com/s3size/rt:fill/w:900/h:900/g:no/el:1/f:webp/plain/s3://cms/product/cc/c9/ccc9679ea2e0b847c567c3e5a101e295/220523120011935437.webp"
+    },
+    {
+      "id": 7,
+      "title": "Samsung 32-inch Odyssey G7",
+      "price": 699,
+      "stock": 10,
+      "image": "https://files.ox-sys.com/cache/800x_/image/5c/80/94/5c80946474d4672bb405e840d709eb386d0fcb5bd3bec84ac39d273249a6c5af.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Razer BlackWidow V4 Pro",
+      "price": 229,
+      "stock": 35,
+      "image": "https://storage.googleapis.com/bionic_1626848719/products/b1c7a71c57acc083aaa2fd2210cc67ff2c7344bd/banners/12900608_1708605195.jpg"
+    }
+  ],
+  "total": 8,
+  "skip": 0,
+  "limit": 0
+}
